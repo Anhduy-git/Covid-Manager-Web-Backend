@@ -29,6 +29,8 @@ Here is our team, you can connect us through our Linkedin:
 
 **Third-party services:** Sendgrid (email sending), Cloudinary (image storage).
 
+**Documentation:** Postman.
+
 
 ## Features
 - Signin/Signup user.
