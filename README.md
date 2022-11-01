@@ -31,7 +31,8 @@ Here is our team, you can connect us through our Linkedin:
 
 
 ## Features
-
+- Signin/Signup user.
+- Change password of user.
 - CRUD admin.
 - CRUD list of managers.
 - CRUD list of patients.
