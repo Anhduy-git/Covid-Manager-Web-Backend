@@ -25,6 +25,8 @@ Here is our team, you can connect us through our Linkedin:
 
 **Database:** MongoDB.
 
+**Cloud Database:** MongoDB Atlas.
+
 **Web server:** Heroku.
 
 **Third-party services:** Sendgrid (email sending), Cloudinary (image storage).
